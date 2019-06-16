@@ -617,3 +617,14 @@ body {
 	background-position: center;
 	background-size: cover;
 }
+
+.logo28 {
+	height: 75%;
+	width: 100%;
+	background-color: white;
+	float: left;
+	background-image: url(/Images/products/bioform.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
