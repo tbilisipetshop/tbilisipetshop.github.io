@@ -771,3 +771,14 @@ body {
 	background-position: center;
 	background-size: cover;
 }
+
+.logo42 {
+	height: 75%;
+	width: 100%;
+	background-color: white;
+	float: left;
+	background-image: url(/Images/products/canis.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
