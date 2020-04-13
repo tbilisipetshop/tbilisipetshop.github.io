@@ -219,7 +219,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	color: white;
-	font-size: 3vw;
+	font-size: 1vw;
 	font-family: 'PT Sans';
 }
 
@@ -712,6 +712,61 @@ body {
 	background-color: white;
 	float: left;
 	background-image: url(/Images/products/friskies.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.logo37 {
+	height: 75%;
+	width: 100%;
+	background-color: white;
+	float: left;
+	background-image: url(/Images/products/favouriteadult.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.logo38 {
+	height: 75%;
+	width: 100%;
+	background-color: white;
+	float: left;
+	background-image: url(/Images/products/favouritepuppy.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.logo39 {
+	height: 75%;
+	width: 100%;
+	background-color: white;
+	float: left;
+	background-image: url(/Images/products/vancat.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.logo40 {
+	height: 75%;
+	width: 100%;
+	background-color: white;
+	float: left;
+	background-image: url(/Images/products/vancatlav.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.logo41 {
+	height: 75%;
+	width: 100%;
+	background-color: white;
+	float: left;
+	background-image: url(/Images/products/vancatnat.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
