@@ -23,7 +23,7 @@ body {
 
 .content {
 	width: 102%;
-	height: 160vh; /* Default value 80 */
+	height: 80vh; /* Default value 80 */
 	background-color: white;
 	float: left;
 	margin-left: -1%;
@@ -141,7 +141,7 @@ body {
 	border: 0.15vh solid black;
 	float: left;
 	margin-left: 15%;
-	height: 20%; /* Default value 40 */
+	height: 40%; /* Default value 40 */
 	width: 30%; /* Default value 30 */
 	margin-top: 5vh;
 	box-shadow: 0 0 1vh;
@@ -160,7 +160,7 @@ body {
 .infomap {
 	float: left;
 	margin-left: 5%;
-	height: 20%; /* Default value 40 */
+	height: 40%; /* Default value 40 */
 	width: 40%; /* Default value 40 */
 	background-color: white;
 	margin-top: 5vh;
