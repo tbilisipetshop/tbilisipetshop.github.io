@@ -353,7 +353,13 @@ body {
 
 .fblink{
 text-decoration: none;
-color: white,
+color: white;
+font-family: 'PT Sans';
+}
+
+.fblink:hover {
+	box-shadow: 0 0 2vh;
+	transition: 0.5s;
 }
 
 .name {
