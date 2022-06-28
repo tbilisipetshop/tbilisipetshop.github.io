@@ -351,6 +351,11 @@ body {
 	transition: 0.5s;
 }
 
+.fblink{
+text-decoration: none;
+color: white,
+}
+
 .name {
 	height: 25%;
 	width: 100%;
