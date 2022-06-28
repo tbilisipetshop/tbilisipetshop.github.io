@@ -351,13 +351,13 @@ body {
 	transition: 0.5s;
 }
 
-.fblink{
+a.fblink{
 text-decoration: none;
 color: white;
 font-family: 'PT Sans';
 }
 
-.fblink:hover {
+a.fblink:hover {
 	box-shadow: 0 0 2vh;
 	transition: 0.5s;
 }
